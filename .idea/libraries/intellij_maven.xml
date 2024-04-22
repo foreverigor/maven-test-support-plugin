@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="intellij-maven">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/maven/lib" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/maven-model/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/maven-model/lib" recursive="false" />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/maven/lib" recursive="false" />
+  </library>
+</component>
